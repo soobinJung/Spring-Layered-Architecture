@@ -1,4 +1,5 @@
 # Spring-Layered-Architecture
+레이어드 아키텍처에서 각 계층은 서로 분리되어 있으며, 각자의 책임을 가집니다. 이를 통해 애플리케이션은 유지보수가 쉽고, 확장성이 높으며, 테스트 가능한 구조를 갖게 됩니다.
 
 ## Spring Layered architecture 의 계층에 대해 이론적으로 설명합니다.
 
