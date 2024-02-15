@@ -6,4 +6,4 @@ https://github.com/soobinJung/Spring-Layered-Architecture/blob/main/Spring-Layer
 ### 🚀 Layered Architecture 에 기반하여 JCK-World 프로젝트 Architecture 정의
 JCK-World : https://github.com/soobinJung/JCK-World
 
-[a](https://github.com/soobinJung/Spring-Layered-Architecture/blob/main/JCK-world-Architecture.md)https://github.com/soobinJung/Spring-Layered-Architecture/blob/main/JCK-world-Architecture.md
+https://github.com/soobinJung/Spring-Layered-Architecture/blob/main/JCK-world-Architecture.md
